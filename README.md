@@ -1,2 +1,2 @@
 # TestKit
-This is for testing git.
+This is a private repository.
